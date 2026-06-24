@@ -89,7 +89,7 @@ a{color:var(--accent)}
     <div class="tab" data-doc="privacy"></div>
   </div>
   ${panels}
-  <footer>© PinPoint Survey · <a href="mailto:aktgeo009@gmail.com">aktgeo009@gmail.com</a></footer>
+  <footer>© PinPoint Survey · <a href="mailto:aktgeo001@gmail.com">aktgeo001@gmail.com</a></footer>
 </div>
 <script>
 const UI=${JSON.stringify(UI)};
